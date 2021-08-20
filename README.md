@@ -6,11 +6,12 @@
 </div>
 
 
-Microsoft Excel and Power BI Specialist
- 
+#### Microsoft Excel and Power BI Specialist
+
 [![Power BI Certificate](/assets/images/microsoft-certified-data-analyst-associate.1.png "Microsoft Data Analyst Associate")](https://www.credly.com/badges/5fc958a8-0fd0-4723-aabc-017aab3f988e/public_url)
 
-Higher Diploma in Science of Data Science & Analytics
+
+#### Higher Diploma in Science of Data Science & Analytics
 
 [![Munster Technological University](/assets/images/mtu_.jpg "MTU Ireland")](https://www.mtu.ie/cork)
 
