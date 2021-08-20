@@ -12,7 +12,7 @@ Microsoft Excel and Power BI Specialist
 
 Higher Diploma in Science of Data Science & Analytics
 
-[![Munster Technological University](/assets/images/mtu_800x189.png "MTU Ireland")](https://www.mtu.ie/cork)
+[![Munster Technological University](/assets/images/MTU.png "MTU Ireland")](https://www.mtu.ie/cork)
 
   
 ### About Me
