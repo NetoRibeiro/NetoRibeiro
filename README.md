@@ -11,7 +11,7 @@
 [![Power BI Certificate](/assets/images/microsoft-certified-data-analyst-associate.1.png "Microsoft Data Analyst Associate")](https://www.credly.com/badges/5fc958a8-0fd0-4723-aabc-017aab3f988e/public_url)
 </td><td>
 [![Certified Trainer](/assets/images/microsoft-certified-trainer-2021-2022.png "Microsoft Certified Trainer")](https://www.credly.com/badges/e027420b-6a9c-427d-8b68-83584346c542/public_url)
-</td><td>
+</td></tr>
 #### Higher Diploma in Science of Data Science & Analytics
 
 [![Munster Technological University](/assets/images/mtu_.jpg "MTU Ireland")](https://www.mtu.ie/cork)
