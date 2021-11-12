@@ -12,7 +12,6 @@
 
 [![Certified Trainer](/assets/images/microsoft-certified-trainer-2021-2022.png "Microsoft Certified Trainer")](https://www.credly.com/badges/e027420b-6a9c-427d-8b68-83584346c542/public_url)
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e027420b-6a9c-427d-8b68-83584346c542" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 #### Higher Diploma in Science of Data Science & Analytics
 
 [![Munster Technological University](/assets/images/mtu_.jpg "MTU Ireland")](https://www.mtu.ie/cork)
